@@ -1,0 +1,222 @@
+{
+  "cases": [
+    {
+      "id": "ret-01",
+      "input_tokens": 3000,
+      "latency_ms": 250,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.73,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-02",
+      "input_tokens": 3000,
+      "latency_ms": 270,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.75,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-03",
+      "input_tokens": 3000,
+      "latency_ms": 290,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.77,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-04",
+      "input_tokens": 3000,
+      "latency_ms": 310,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.79,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-05",
+      "input_tokens": 3000,
+      "latency_ms": 330,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.73,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-06",
+      "input_tokens": 3000,
+      "latency_ms": 350,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.75,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-07",
+      "input_tokens": 3000,
+      "latency_ms": 370,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.77,
+      "suite": "retrieval"
+    },
+    {
+      "id": "ret-08",
+      "input_tokens": 3000,
+      "latency_ms": 390,
+      "model": "helios-medium",
+      "output_tokens": 800,
+      "score": 0.79,
+      "suite": "retrieval"
+    },
+    {
+      "id": "sum-01",
+      "input_tokens": 6000,
+      "latency_ms": 410,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.73,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-02",
+      "input_tokens": 6000,
+      "latency_ms": 430,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.75,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-03",
+      "input_tokens": 6000,
+      "latency_ms": 450,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.77,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-04",
+      "input_tokens": 6000,
+      "latency_ms": 470,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.79,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-05",
+      "input_tokens": 6000,
+      "latency_ms": 490,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.73,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-06",
+      "input_tokens": 6000,
+      "latency_ms": 510,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.75,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-07",
+      "input_tokens": 6000,
+      "latency_ms": 530,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.77,
+      "suite": "summarization"
+    },
+    {
+      "id": "sum-08",
+      "input_tokens": 6000,
+      "latency_ms": 550,
+      "model": "helios-medium",
+      "output_tokens": 1600,
+      "score": 0.79,
+      "suite": "summarization"
+    },
+    {
+      "id": "sup-01",
+      "input_tokens": 4000,
+      "latency_ms": 570,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.73,
+      "suite": "support"
+    },
+    {
+      "id": "sup-02",
+      "input_tokens": 4000,
+      "latency_ms": 590,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.75,
+      "suite": "support"
+    },
+    {
+      "id": "sup-03",
+      "input_tokens": 4000,
+      "latency_ms": 610,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.77,
+      "suite": "support"
+    },
+    {
+      "id": "sup-04",
+      "input_tokens": 4000,
+      "latency_ms": 630,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.79,
+      "suite": "support"
+    },
+    {
+      "id": "sup-05",
+      "input_tokens": 4000,
+      "latency_ms": 650,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.73,
+      "suite": "support"
+    },
+    {
+      "id": "sup-06",
+      "input_tokens": 4000,
+      "latency_ms": 670,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.75,
+      "suite": "support"
+    },
+    {
+      "id": "sup-07",
+      "input_tokens": 4000,
+      "latency_ms": 690,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.77,
+      "suite": "support"
+    },
+    {
+      "id": "sup-08",
+      "input_tokens": 4000,
+      "latency_ms": 710,
+      "model": "helios-medium",
+      "output_tokens": 1000,
+      "score": 0.79,
+      "suite": "support"
+    }
+  ],
+  "model": "helios-medium",
+  "run_id": "candidate-fail-001"
+}
