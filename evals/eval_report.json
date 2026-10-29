@@ -1,0 +1,71 @@
+{
+  "passed": 13,
+  "results": [
+    {
+      "detail": "cost=0.12 tokens=65600",
+      "eval": "E1_baseline_totals",
+      "pass": true
+    },
+    {
+      "detail": "p95=320 score=0.88",
+      "eval": "E2_baseline_latency_score",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E3_suite_breakdown",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E4_model_breakdown_sums",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E5_pricing_math",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E6_percentile_math",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E7_pass_candidate_verdict",
+      "pass": true
+    },
+    {
+      "detail": "cost=0.126 p95=325",
+      "eval": "E8_pass_candidate_totals",
+      "pass": true
+    },
+    {
+      "detail": "cost_delta_pct=100.0",
+      "eval": "E9_fail_candidate_verdict_and_deltas",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E10_warn_band",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E11_budget_validation",
+      "pass": true
+    },
+    {
+      "detail": "(0, 1, 2)",
+      "eval": "E12_cli_check_exit_codes",
+      "pass": true
+    },
+    {
+      "detail": "",
+      "eval": "E13_determinism",
+      "pass": true
+    }
+  ],
+  "total": 13
+}
